@@ -1,0 +1,63 @@
+﻿--------------User-Info--------------
+ID: 0
+URL: https://www.facebook.com/valko.volodya
+Name: Valko
+Second Name: Vova
+Birth Date: null
+Count of Friends: 29
+Count of Followers: 0
+Birth Place: null
+Location: https://www.facebook.com/pages/Киев/111227078906045
+Current Work: null
+--------------Previous-Work---------------
+--------------Education----------------
+--------------Friend-List-[29]-----------
+https://www.facebook.com/t.tatus
+https://www.facebook.com/Bra1nDud3
+https://www.facebook.com/profile.php?id=100009379206820
+https://www.facebook.com/ramil.magyerramov
+https://www.facebook.com/serhii.hamotskyi
+https://www.facebook.com/dmitriy.gutman.1
+https://www.facebook.com/maksim.shulga.31
+https://www.facebook.com/tshemsedinov
+https://www.facebook.com/profile.php?id=100010262711872
+https://www.facebook.com/ivanenko.katrin94
+https://www.facebook.com/profile.php?id=100009538187007
+https://www.facebook.com/MariannProkhorova
+https://www.facebook.com/eliza.beth.291295
+https://www.facebook.com/profile.php?id=100000218385546
+https://www.facebook.com/mss.heal
+https://www.facebook.com/anxolerd
+https://www.facebook.com/lukyanenko.yaroslav
+https://www.facebook.com/s.kozhan
+https://www.facebook.com/nick.xpams
+https://www.facebook.com/profile.php?id=100010462572809
+https://www.facebook.com/profile.php?id=100011168372418
+https://www.facebook.com/ilya.sinyugin
+https://www.facebook.com/alexcleac
+https://www.facebook.com/profile.php?id=100005178618379
+https://www.facebook.com/profile.php?id=100000323503614
+https://www.facebook.com/ITOkado
+https://www.facebook.com/profile.php?id=100008862045279
+https://www.facebook.com/profile.php?id=100008461381776
+https://www.facebook.com/alexa.leschenko.1
+--------------Liked-[29]-----------
+https://www.facebook.com/crafta.handmade/
+https://www.facebook.com/codeguida/
+https://www.facebook.com/evosummerpythonlab/
+https://www.facebook.com/InternationalMafiaClub/
+https://www.facebook.com/playotsdcrew/
+https://www.facebook.com/runukraine.org/
+https://www.facebook.com/KyivNightRun/
+https://www.facebook.com/velodrome.kiev/
+https://www.facebook.com/ciklum/
+https://www.facebook.com/algoclub/
+https://www.facebook.com/NewNoiseMags/
+https://www.facebook.com/portaonekievlab/
+https://www.facebook.com/newitkpi/
+https://www.facebook.com/PepsiUkraine/
+https://www.facebook.com/Steambirds/
+https://www.facebook.com/bfplay4free/
+https://www.facebook.com/jetpackjoyride/
+
+##################---NEXT---#######################
