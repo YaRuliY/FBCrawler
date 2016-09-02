@@ -13,22 +13,22 @@ import java.io.InputStream;
 
 public class Runner {
     public static void main(String[] args){
-        Queue qu = new Queue();
+        /*Queue qu = new Queue();
         qu.addTask("https://www.facebook.com/lukyanenko.yaroslav");
         User u = qu.execute().get(0);
-        System.out.println(u.toString());
+        System.out.println(u.toString());*/
 
-        /*Model model = ModelFactory.createDefaultModel();
+        Model model = ModelFactory.createDefaultModel();
         InputStream in = FileManager.get().open("db.rdf");
         if (in == null) { throw new IllegalArgumentException("File not found"); }
         model.read(in, "");
 
-        *//*Queue qu = new Queue();
-        qu.addTask("https://www.facebook.com/profile.php?id=100013139820442");*//*
+        Queue qu = new Queue();
+        qu.addTask("https://www.facebook.com/lukyanenko.yaroslav");
+        User u = qu.execute().get(0);
 
-        Resource res;
-        res = model.createResource();
-        res = Librarian.accountToResource(model, u);
+        model.createResource();
+        Librarian.accountToResource(model, u);
 
         FileWriter out = null;
         try {
@@ -42,6 +42,6 @@ public class Runner {
                 try { out.close(); }
                 catch (IOException e) { e.printStackTrace(); }
             }
-        }*/
+        }
     }
 }

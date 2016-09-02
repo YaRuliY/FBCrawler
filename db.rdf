@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:j.0="http://xmlns.com/EFC/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" > 
+  <rdf:Description rdf:about="https://www.facebook.com/lukyanenko.yaroslav">
+    <j.0:friend rdf:resource="https://www.facebook.com/vladislav.zavadskiy"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/profile.php?id=100007996428589"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/Bra1nDud3"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/ramil.magyerramov"/>
+    <j.0:FCID>https://www.facebook.com/lukyanenko.yaroslav</j.0:FCID>
+    <j.0:friend rdf:resource="https://www.facebook.com/serhii.hamotskyi"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/profile.php?id=100009379206820"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/helen.afanaseva.3"/>
+    <j.0:liveIn>https://www.facebook.com/pages/Киев/111227078906045</j.0:liveIn>
+    <j.0:birsdayplace>https://www.facebook.com/pages/Киев/111227078906045</j.0:birsdayplace>
+    <j.0:friend rdf:resource="https://www.facebook.com/valko.volodya"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/aloshkinoleh"/>
+    <j.0:Subscribers>0</j.0:Subscribers>
+    <j.0:friend rdf:resource="https://www.facebook.com/profile.php?id=100006614015848"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/profile.php?id=100004769311148"/>
+    <j.0:school rdf:resource="https://www.facebook.com/kpi.live/"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/dmitriy.gutman.1"/>
+    <foaf:family_name>Лук'яненко</foaf:family_name>
+    <j.0:friend rdf:resource="https://www.facebook.com/alexandriyash"/>
+    <j.0:countOfFriends>15</j.0:countOfFriends>
+    <foaf:givenname>Ярослав</foaf:givenname>
+    <j.0:friend rdf:resource="https://www.facebook.com/profile.php?id=100012883771634"/>
+    <j.0:friend rdf:resource="https://www.facebook.com/t.tatus"/>
+  </rdf:Description>
+</rdf:RDF>

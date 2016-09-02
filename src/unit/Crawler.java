@@ -45,7 +45,6 @@ public class Crawler {
 
             Writer writer = new BufferedWriter(new FileWriter(new File("_text.txt"), true));
             writer.write(user.toString());
-            writer.write("\n##################---NEXT---#######################\n");
             writer.close();
 
             return user;
@@ -61,7 +60,7 @@ public class Crawler {
         else toParse = url + "/friends";
         driver.get(toParse);
 
-        if (isElementNotDisplay("pagelet_timeline_medley_photos")) {
+        if (!isElementNotDisplay("pagelet_timeline_medley_photos")) {
             while (isElementNotDisplay("pagelet_timeline_medley_photos")){
                 ((JavascriptExecutor)driver).executeScript("window.scrollTo(0, document.body.scrollHeight);");
                 try { Thread.sleep(500); }
@@ -169,7 +168,7 @@ public class Crawler {
         else toParse = url + "/likes";
         driver.get(toParse);
 
-        if (isElementNotDisplay("pagelet_timeline_medley_events")){
+        if (!isElementNotDisplay("pagelet_timeline_medley_events")){
             while (isElementNotDisplay("pagelet_timeline_medley_events")){
                 ((JavascriptExecutor)driver).executeScript("window.scrollTo(0, document.body.scrollHeight);");
                 try { Thread.sleep(1000); }

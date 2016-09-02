@@ -1,0 +1,39 @@
+--------------User-Info--------------
+ID: 0
+URL: https://www.facebook.com/lukyanenko.yaroslav
+Name: Ярослав
+Second Name: Лук'яненко
+Birth Date: null
+Count of Friends: 15
+Count of Followers: 0
+Birth Place: https://www.facebook.com/pages/Киев/111227078906045
+Location: https://www.facebook.com/pages/Киев/111227078906045
+Current Work: null
+--------------Previous-Work---------------
+--------------Education----------------
+https://www.facebook.com/kpi.live/
+--------------Friend-List-[15]-----------
+https://www.facebook.com/t.tatus
+https://www.facebook.com/valko.volodya
+https://www.facebook.com/profile.php?id=100012883771634
+https://www.facebook.com/Bra1nDud3
+https://www.facebook.com/alexandriyash
+https://www.facebook.com/profile.php?id=100009379206820
+https://www.facebook.com/profile.php?id=100006614015848
+https://www.facebook.com/ramil.magyerramov
+https://www.facebook.com/serhii.hamotskyi
+https://www.facebook.com/dmitriy.gutman.1
+https://www.facebook.com/helen.afanaseva.3
+https://www.facebook.com/vladislav.zavadskiy
+https://www.facebook.com/profile.php?id=100007996428589
+https://www.facebook.com/profile.php?id=100004769311148
+https://www.facebook.com/aloshkinoleh
+--------------Liked-[8]-----------
+https://www.facebook.com/WorldOfPiranhaBytes/
+https://www.facebook.com/CyberpunkGame/
+https://www.facebook.com/Piranha.Bytes/
+https://www.facebook.com/OtherSideEntertainment/
+https://www.facebook.com/elexgame/
+https://www.facebook.com/intertelecom.ua/
+https://www.facebook.com/DeusEx/
+https://www.facebook.com/Starcraft.eu/

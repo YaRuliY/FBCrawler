@@ -44,7 +44,7 @@ public class User {
         for (String s : friendsList) {
             sb.append(s).append("\n");
         }
-        sb.append("--------------Liked-[").append(friendsList.size()).append("]-----------\n");
+        sb.append("--------------Liked-[").append(userLikes.size()).append("]-----------\n");
         for (String s : userLikes) {
             sb.append(s).append("\n");
         }
